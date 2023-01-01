@@ -19,8 +19,7 @@ See `./data/cross_validation.ipynb`
 ## Citation
 This program was reported in:
 
-**Fukushima et al. 2021. A discordance of seasonally covarying cues uncovers misregulated phenotypes in the heterophyllous pitcher plant *Cephalotus follicularis*. Proceedings of the Royal Society B 288(1943): 20202568. https://royalsocietypublishing.org/doi/10.1098/rspb.2020.2568
-**
+**Fukushima et al. 2021.** A discordance of seasonally covarying cues uncovers misregulated phenotypes in the heterophyllous pitcher plant *Cephalotus follicularis*. Proceedings of the Royal Society B 288(1943): 20202568. https://royalsocietypublishing.org/doi/10.1098/rspb.2020.2568
 
 Also, this program implements the method reported in the following paper.
 
