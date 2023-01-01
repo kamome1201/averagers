@@ -14,7 +14,7 @@ pip install git+https://github.com/kfuku52/averagers
 ```
 
 ## Example
-See `./data/cross_validation.ipynb`
+See [`data/cross_validation.ipynb`](data/cross_validation.ipynb)
 
 ## Citation
 This program was reported in:
